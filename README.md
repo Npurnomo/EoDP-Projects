@@ -6,10 +6,10 @@ Semester 1 2019.
 I do not own the datasets for all the projects.
 
 Cleaning and re-formatting data for further analysis and visualisations: 
-- Exploratory data analysis
-- Missing values management
-- N/A data cases
-- Visualisations: boxplot, histogram, scatterplot, pie chart
+- Exploratory data analysis.
+- Missing values management.
+- N/A data cases.
+- Visualisations: boxplot, histogram, scatterplot, pie chart.
 - Parallel coordinates.
 - PCA. 
 - Hierarchical clustering (min and max). 
