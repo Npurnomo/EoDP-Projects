@@ -1,7 +1,7 @@
 # EoDP-Projects
 Assignments for Elements of Data Processing subject (https://handbook.unimelb.edu.au/2020/subjects/comp20008) by Nico Purnomo
 
-Semester 1 2019. 
+Semester 1 2019. Language : Python.
 
 I do not own the datasets for all the projects.
 
