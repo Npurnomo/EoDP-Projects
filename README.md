@@ -6,6 +6,7 @@ Semester 1 2019. Language : Python.
 I do not own the datasets for all the projects.
 
 What I did :
+
 - Cleaning and re-formatting data for further analysis and visualisations.
 - Exploratory data analysis.
 - Missing values management.
